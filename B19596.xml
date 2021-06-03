@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for enforcing the due execution of the Act of Parliament, entituled, An Act for setling the profits of the post-office on his Royal Highness the Duke of York and his heirs males: and for prevention of the inconveniences arising by the infringement of the said Act.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19596</idno><idno type="EEBO-CITATION">99890348_191252</idno>
+  <idno type="VID">191252</idno>
+  <idno type="EEBO-PROQUEST">2264190490</idno>
+  
+            <idno type="OCLC"> 16989260</idno>
+            <idno type="STC">Wing C3338</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[63]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[33]</idno>
+            <idno type="STC">ESTC R37623</idno>
+            <idno type="PROQUEST">ocm99890348</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890348e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191252)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[63]; C18:2[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for enforcing the due execution of the Act of Parliament, entituled, An Act for setling the profits of the post-office on his Royal Highness the Duke of York and his heirs males: and for prevention of the inconveniences arising by the infringement of the said Act.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>In the Savoy, [i.e. London] :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at our court at Whitehall, the one and twentieth day of June, 1669.</note>
+                  <note>Arms 75; Steele notation: Majesties Conveyance 2) in- Horses.</note>
+                  <note>Filmed copy at UMI Tracts Supplement reel C18 consists of one contiguous sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term type="topical_term">Postal service --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191252:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles II</figDesc>
+                  <head>C R</head>
+                  <q>HONI SO<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> QVI MAL Y PE<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </q>
+                  <q>DIEV ET MON DROI<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </q>
+               </figure> By the King. A PROCLAMATION For Enforcing the due Execution of the Act of Parliament, Entituled, <hi>An Act for Setling the Profits of the Post-Office on his Royal Highness the Duke of</hi> York <hi>and his Heirs Males:</hi> And for Prevention of the Inconveniences arising by the Infringement of the said Act.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Office of Post-master-General hath been Erected by Act of Parliament in the Twelfth year of His Majesties Reign, and the well ordering thereof is thereby declared to be a matter of general concernment, and of great advantage, as well for preservation of Trade and Commerce, or otherwise: And whereas also the greatest part of the Revenue and Profits thereby arising, is by one other Act of Parliament in the Fifteenth year of His Majesties Reign, Granted and As<g ref="char:EOLhyphen"/>signed by His Majesty unto His most entirely beloved Brother <hi>James</hi> Duke of <hi>York,</hi> for and towards his Maintenance and Support; which Laws and Statutes, notwithstanding several persons for their private lucre have lately practised, and do still continue in a secret and most unlawful manner to make a general Collection of Letters, and to give them Conveyance and Delivery for Hire without any Authority from the Post-master-general, whereby not onely the Reve<g ref="char:EOLhyphen"/>nue arising by the said Office is diminished, but likewise several dangerous Correspondencies are preserved and maintained, and the Sediti<g ref="char:EOLhyphen"/>ous designs of many evil disposed persons are very much promoted. His Majesty therefore for the prevention hereof in time to come, and to the end that such persons who shall presume hereafter to offend in like manner, may remain without all excuse, hath thought fit by this His Royal Proclamation, to require and enjoyn all His loving Subjects, and doth hereby straitly Charge and Command all and every person and persons (other then the Post-master-general for the time being, his Deputies or Assigns) that they presume not either directly or indirectly to set up any Office, or to contrive or practise any way or means for collecting and receiving of Letters and Pacquets, or to carry, recarry, or de<g ref="char:EOLhyphen"/>liver the same with speed and for hire. And to this end His Majesty doth further Require and Command them and every of them, that they presume not to set up any Foot-post, Horse-post, Post, or Stage-coach, or Pacquet-boat, for carrying or recarrying of Letters or Pacquets, or to imploy or make use of any which shall be set up for that purpose, other then such as shall be Licensed and Authorized by the Post-master-general for the time being, his Deputies or Assigns. And because several Carriers, Drivers of Stage-coaches or Waggons, Haglers, Ma<g ref="char:EOLhyphen"/>sters of Ships, Pursers, or other Mariners do very often under colour and pretence of their respective Imployments, intermeddle with, and in<g ref="char:EOLhyphen"/>trude upon the Office of the Post-master-general, His Majesty doth hereby more particularly and expresly Charge and Command all Carriers, That they presume not to carry any Letters other then such as shall concern the Goods wherewith they are charged, beyond the first Post-stage to which they shall arrive, and that they presume not to outgo their Packs or Waggons, or deliver any Letters which they carry, soon<g ref="char:EOLhyphen"/>er, or with more speed then their respective Packs or Waggons shall arrive. And His Majesty doth in like manner Charge and Command ill Drivers of Stage-Coaches, Haglers, and such like persons, That they presume not in any kind, or upon any pretence whatsoever, to in<g ref="char:EOLhyphen"/>termeddle with the conveyance and delivery of any Letters as aforesaid; but that they do from time to time refuse all such Letters which shall be so tendred to them. And His Majesty doth also Charge and Command all Masters of Ships, Boursers and Mariners, That they presume not to carry any Ship-letters, other then the Letters of Merchants, Owners, and Masters, beyond the first Post-stage to which they shall arrive in <hi>England.</hi> And if any Carriers, Drivers of Stage-coaches, Haglers, Masters of Ships, Pursers, or other Mariners shall be found carrying of Letters unlawfully, or in any other manner, they shall incur His Majesties high displeasure, and suffer the utmost penalty which can be inflicted upon such as shall be found to have broken His Majesties Laws, and to be wilful contemners of His Royal Com<g ref="char:EOLhyphen"/>mand. And moreover, all Letters whatsoever sent or conveyed by such clandestine and indirect wayes, and by persons not lawfully Autho<g ref="char:EOLhyphen"/>rized, shall be lookt upon as Letters of dangerous consequence, and shall accordingly be seized and brought to one of His Majesties Principal Secretaries of State, or to some one or more of the Lords of His Majesties most Honourable Privy Council, to the end the same may be opened and inspected, and the persons conveying or sending them may be proceeded against according to Law. And for the better execution of His Majesties Command, and as a means to secure the Revenue arising by the said Office, His Majesty will cause such Searchers, Waiters, and other Officers to be appointed in all convenient places, as may be fit and proper for the discovery of such practises, and carrying such Let<g ref="char:EOLhyphen"/>ters, to be seized, and such offenders names to be certified; And in the mean time His Majesty doth strictly Charge and Command all May<g ref="char:EOLhyphen"/>ors, Sheriffs, Iustices of Peace, Constables, Bayliffs, Searchers of His Majesties Ports, and all other His Officers and Ministers what<g ref="char:EOLhyphen"/>soever within their several Iurisdictions and Offices from time to time, to make diligent search for all Mailes, Buggets and Baggs in any Ship, Vessel, Waggon, Coach, or other unlawful or unlicensed Carriage, and all such Letters which they find to be conveyed or carri<g ref="char:EOLhyphen"/>ed contrary to Law, to seize and send up to one of His Majesties principal Secretaries of State, or to some one or more of the Lords of His Majesties Privy Council, together with the names of the persons offending, to the end such further proceeding may be had as shall be found agreeable to the Laws and Statutes of the Realm. And that no man hereafter may complain for want of a setled Post in or near particu<g ref="char:EOLhyphen"/>lar by-Towns or Places lying on the Post-Road, which complaint hath hitherto been made the excuse or pretence for sending and carrying of Letters by other indirect and unlawful conveyances, His Majesty doth hereby also Require and Command the Post-master-general for the time being, That upon or before the <hi>29<seg rend="sup">th</seg>
+               </hi> day of <hi>September</hi> next, to take effectual care for the conveyance of all by-Letters, by establishing Cor<g ref="char:EOLhyphen"/>respondencies at the least charge and greatest ease that may be, to the Countrey, in all considerable Market-Towns, with the next adjacent Post-stages: And that he cause a Map or Card thereof to be forthwith Printed, to the end that all His Majesties Subjects may know where and to what place to address their respective Letters. And His Majesty doth further Charge and Command all and every person or per<g ref="char:EOLhyphen"/>sons, other then the Post-master-general for the time being, his Deputies or Assigns, That they presume not to prepare or provide any Horses or Furniture to let to hire unto, or in all or any the through-Posts, and persons riding Post by Commission or without, to and from all and every the parts and places of <hi>England, Scotland</hi> and <hi>Ireland,</hi> where any Post-Rodes are or shall be setled and established, unless the Post-master-general, his Deputies or Assigns shall first fail to provide and furnish the person or persons so riding Post, with sufficient Horses and Furniture, within the space of half an hour after demand thereof made, as they will answer the contrary at their perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Court at <hi>Whitehall,</hi>
+                  </hi>
+                  <date>
+                     <hi>the One and twentieth day of <hi>June,</hi> 1669.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty. 1669.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
